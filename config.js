@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['94713106474', '𝑸𝒖𝒆𝒆𝒏 𝑴𝒂𝒏𝒖𝒉 𝑴𝑫♞', true], 
   ['put your number', 'your-name', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['put-your-number','94713106474'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['put-premium-user-number','94713106474']
+global.nomorbot = '94713106474' //Change it to your own
+global.nomorown = '94713106474' //Change it to your own
+global.namebot = '𝐐𝐮𝐞𝐞𝐧 𝐌𝐚𝐧𝐮𝐡 𝐌𝐃♞' //change it to your own
+global.nameown = 'Senesh Shashmika' // change it to your own
 
 //*============= ==============*/
 
@@ -118,14 +118,14 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
+global.wm = '「 𝑸𝒖𝒆𝒆𝒏 𝑴𝒂𝒏𝒖𝒉♞༗ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Senesh⊶Shashmika- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '「𝐌𝐑 𝐒𝜩𝐍𝐔𝐖𝜟 𝐌𝚯𝐃」'
+global.footerTXT = `𝑸𝒖𝒆𝒆𝒏 𝑴𝒂𝒏𝒖𝒉 • 𝐒𝐄𝐍𝐔𝐖𝐀 𝐌𝐎𝐃𝐙\nowner: +94 71 310 6474`
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊𝑸𝒖𝒆𝒆𝒏 𝑴𝒂𝒏𝒖𝒉♞'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
 
@@ -149,11 +149,11 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='] 
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」😴Loading...```'
+global.eror = '```💥404 error```'
+global.dtu = '𝑸𝒖𝒆𝒆𝒏 𝑴𝒂𝒏𝒖𝒉♞'
+global.dtc = '「𝐌𝐑 𝐒𝜩𝐍𝐔𝐖𝜟 𝐌𝚯𝐃」'
+global.phn = '+94713106474'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -172,7 +172,7 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇧🇩' //body
+global.dmenub = '┊🇱🇰' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
@@ -193,10 +193,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_sla.sher_'
-global.stickauth = `「 x-ɢᴇɴ-ᴍᴅ 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ x-ɢᴇɴ-ᴍᴅ'
+global.stickpack = '𝑸𝒖𝒆𝒆𝒏 𝑴𝒂𝒏𝒖𝒉♞'
+global.stickauth = `「𝐌𝐑 𝐒𝜩𝐍𝐔𝐖𝜟 𝐌𝚯𝐃」`
+global.packname = '「𝐌𝐑 𝐒𝜩𝐍𝐔𝐖𝜟 𝐌𝚯𝐃」'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝑸𝒖𝒆𝒆𝒏 𝑴𝒂𝒏𝒖𝒉'
 
 global.multiplier = 38 // The higher, The harder levelup
 
